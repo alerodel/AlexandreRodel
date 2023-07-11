@@ -23,8 +23,11 @@
   <img align="center" alt="Alexandre-Postman" height="30" width="40" src="https://devicons.railway.app/i/postman.svg">
   <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Alexandre-SalesForce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
-  ![LinkedIn_DataScience](https://github.com/alerodel/AlexandreRodel/assets/22079248/b111ca64-a5e7-442f-b9bc-a06c86b786d7)
 </div>
+
+##
+
+![LinkedIn_DataScience gif](https://github.com/alerodel/AlexandreRodel/assets/22079248/9ceb2894-04cc-4f2d-a802-7c823e60f5b4)
 
 ##
 
