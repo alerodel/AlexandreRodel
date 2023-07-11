@@ -28,7 +28,7 @@
 ##
 
 <div>
-  <img align="center" alt="Alexandre-Data" src="LinkedIn_DataScience.gif">
+  <img align="center" alt="Alexandre-Data" src="file:///C:/Users/alexa/OneDrive/Imagens/LinkedIn_DataScience.gif">
 </div>
 
 ##
