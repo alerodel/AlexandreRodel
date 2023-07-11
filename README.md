@@ -10,8 +10,8 @@
 
 <div> 
   <a href = "https://github.com/alerodel">
-  <img height = "170cm", src = "https://github-readme-stats.vercel.app/api?username=alerodel&theme=onedark&show_icons=true">
-  <img height = "170cm", src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alerodel&layout=compact&langs_count=16&theme=onedark"/>  
+  <img height = "160cm", src = "https://github-readme-stats.vercel.app/api?username=alerodel&theme=onedark&show_icons=true">
+  <img height = "160cm", src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alerodel&layout=compact&langs_count=16&theme=onedark"/>  
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 ##
 
 <div>
-  ![LinkedIn_DataScience](https://github.com/alerodel/AlexandreRodel/assets/22079248/2f76cdc8-77f5-4a1e-b829-4252c8364213)
+  ![LinkedIn_DataScience](https://github.com/alerodel/AlexandreRodel/assets/22079248/2f76cdc8-77f5-4a1e-b829-4252c8364213.gif)
 </div>
 
 ##
