@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Alexandre Rodel
 
-- Atualmente trabalho como analista de TI no Service Desk de uma multinacional de commodities
-- Estou estudando formação em Ciência de Dados
-- Estou buscando colaborar em projetos que evolvam, Análise de Dados, Web Scraping e Machine Learning
-- Estou buscando ajuda para iniciar meu primeiro trabalho na área de Ciência de Dados
-- Pergunte-me sobre: física, matemática, alguns tópicos de SQL, alguns tópicos de linguagem R e também de Python
+* Atualmente trabalho como analista de TI no Service Desk de uma multinacional de commodities
+* Estou estudando formação em Ciência de Dados
+* Estou buscando colaborar em projetos que evolvam, Análise de Dados, Web Scraping e Machine Learning
+* Estou buscando ajuda para iniciar meu primeiro trabalho na área de Ciência de Dados
+* Pergunte-me sobre: física, matemática, alguns tópicos de SQL, alguns tópicos de linguagem R e também de Python
 
 ##
 
@@ -23,12 +23,7 @@
   <img align="center" alt="Alexandre-Postman" height="30" width="40" src="https://devicons.railway.app/i/postman.svg">
   <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Alexandre-SalesForce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
-</div>
-
-##
-
-<div>
-  <img align="center" alt="Alexandre-Data" src="c:\Users\alexa\OneDrive\Desktop\LinkedIn_DataScience.gif">
+  <img align="center" alt="Alexandre-Data" src="./Imagens/LinkedIn_DataScience.gif">
 </div>
 
 ##
