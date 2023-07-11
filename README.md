@@ -10,8 +10,8 @@
 
 <div> 
   <a href = "https://github.com/alerodel">
-  <img height = "180cm", src = "https://github-readme-stats.vercel.app/api?username=alerodel&theme=onedark&show_icons=true">
-  <img height = "180cm", src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alerodel&layout=compact&langs_count=16&theme=onedark"/>  
+  <img height = "175cm", src = "https://github-readme-stats.vercel.app/api?username=alerodel&theme=onedark&show_icons=true">
+  <img height = "175cm", src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alerodel&layout=compact&langs_count=16&theme=onedark"/>  
   </a>
 </div>
 
@@ -21,6 +21,7 @@
   <img align="center" alt="Alexandre-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Alexandre-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Alexandre-Postman" height="30" width="40" src="https://devicons.railway.app/i/postman.svg">
+  <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Alexandre-SalesForce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
 </div>
 
