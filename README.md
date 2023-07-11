@@ -9,7 +9,7 @@
 <div> 
   <a href = "https://github.com/alerodel">
   <img height = "180cm", src = "https://github-readme-stats.vercel.app/api?username=alerodel&theme=onedark&show_icons=true">
-    
+  <img height = "180cm", src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alerodel&layout=compact&langs_count=16&theme=onedark"/>  
   </a>
 
 
