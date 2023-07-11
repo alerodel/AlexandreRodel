@@ -23,7 +23,12 @@
   <img align="center" alt="Alexandre-Postman" height="30" width="40" src="https://devicons.railway.app/i/postman.svg">
   <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Alexandre-SalesForce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
-  <img align="center" alt="Alexandre-Data" src="./Imagens/LinkedIn_DataScience.gif">
+</div>
+
+##
+
+<div>
+  <img align="center" alt="Alexandre-Data" src="./Users/alexa/OneDrive/Imagens/LinkedIn_DataScience.gif">
 </div>
 
 ##
