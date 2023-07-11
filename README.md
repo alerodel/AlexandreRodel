@@ -28,7 +28,7 @@
 ##
 
 <div>
-  <img align="center" alt="Alexandre-Data" src="file:///C:/Users/alexa/OneDrive/Imagens/LinkedIn_DataScience.gif">
+  ![LinkedIn_DataScience](https://github.com/alerodel/AlexandreRodel/assets/22079248/2f76cdc8-77f5-4a1e-b829-4252c8364213)
 </div>
 
 ##
