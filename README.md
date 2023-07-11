@@ -1,5 +1,6 @@
-### Olá! Eu sou o Alexandre Rodel de Almeida
+## Olá! Eu sou o Alexandre Rodel de Almeida
 
+* Graduado em Física
 * Atualmente trabalho como analista de TI no Service Desk de uma multinacional de commodities
 * Estou estudando formação em Ciência de Dados
 * Estou buscando colaborar em projetos que evolvam, Análise de Dados, Web Scraping e Machine Learning
