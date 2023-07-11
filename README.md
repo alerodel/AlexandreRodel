@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alexandre Rodel
+### Olá! Eu sou o Alexandre Rodel de Almeida
 
 * Atualmente trabalho como analista de TI no Service Desk de uma multinacional de commodities
 * Estou estudando formação em Ciência de Dados
